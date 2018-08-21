@@ -1,0 +1,5 @@
+# sample toml file
+
+name = "Test App"
+
+path_prefix = "/api/v1"
